@@ -10,7 +10,8 @@ Welcome to the To-Do List App repository! 🎉 This project is your ultimate sol
 - Pending Tasks Counter: View the number of pending tasks.
 
 ## Getting Started
-To get started with the app, click on this link: [To-Do List App](https://tasks-to-do030.netlify.app/)
+To get started with the app, click on this link: [To-Do List App](https://tasks-to-do030.netlify.app/).
+
 Alternatively, you can find the link in the project description for easy access.
 
 ## Usage
