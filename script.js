@@ -54,8 +54,8 @@ function deleteTask(e){
     allTasks();
 }
 
-//deleting addEventListenerall tasks when clear all is clicked
-clearBtn("click", () => {
+//deleting all tasks when clear all is clicked
+clearBtn.addEventListener("click", () => {
     todoLists.innerHTML = "";
     allTasks();
 });
